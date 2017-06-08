@@ -4,6 +4,6 @@ Projeto baseado no primeiro módulo de React do curso da [School Of Net](https:/
 
 - Componentes
 - Props
-- Stetes
+- States
 - Children
 - Listando e Adicionando dados
