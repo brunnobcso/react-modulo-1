@@ -22,3 +22,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+*{
+  display: none!important;
+}
+
+html, body{
+  visibility: hidden!important;
+  display: none!important;
+  font-size: 0!important;
+  opacity: 0!important;
+  text-indent: -99999px!important;
+}
