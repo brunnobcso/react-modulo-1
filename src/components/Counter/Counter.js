@@ -10,7 +10,6 @@ class Counter extends React.Component {
         this.state = {
             counter: props.initialCount
         }
-
         // Usa o bind para vincular o metodo a classe,
         // evitando essa declaração no eevento do btn
         this.handleDecrementClick = this.handleDecrementClick.bind(this);

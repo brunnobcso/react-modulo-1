@@ -19,7 +19,7 @@ class App extends Component {
         { id: 2, name: "Maria", email: "maria@ex.com.br", subject: "react", msg: "Gostaria de saber mais sobre o Reac..." },
         { id: 3, name: "Pedro", email: "pedro@ex.com.br", subject: "vue", msg: "Gostaria de saber mais sobre o VueJS..." },
       ]
-    };
+    }; 
 
     this.handleContactSubmit = this.handleContactSubmit.bind(this);
   }
@@ -31,7 +31,6 @@ class App extends Component {
   }
 
   render() {
-
     const menuLinks = [
       ['Home', 'index.html'],
       ['Contato', 'contato.html'],
