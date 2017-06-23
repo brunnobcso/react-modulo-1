@@ -7,7 +7,7 @@ import Title from './components/Title/Title'
 import FormContato from './components/FormContato/FormContato'
 import ListaContato from './components/ListaContato/ListaContato'
 
-class App extends Component {
+class App extends Component { 
 
   constructor(props) {
     super(props)
