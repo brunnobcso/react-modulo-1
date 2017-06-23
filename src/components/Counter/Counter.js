@@ -27,7 +27,7 @@ class Counter extends React.Component {
             decrementStatus: true,
             incrementStatus: false
         });
-    }
+    } 
 
     // Soma
     handleIncrementClick(target) {
